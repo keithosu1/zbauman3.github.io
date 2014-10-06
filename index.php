@@ -1,1 +1,6 @@
-hello Zane
+<?php
+
+
+echo "hello world";
+
+?>
